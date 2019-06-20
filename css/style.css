@@ -24,7 +24,7 @@ p {
 
 h3 {
   color: #6a6c60;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* Home Section */
@@ -64,7 +64,7 @@ h3 {
   font-size: 55px;
   font-weight: 600;
   margin: 20px 0 20px 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* Parallax effext */
@@ -533,7 +533,8 @@ form .form-control:focus {
   transition: all .5s ease-in-out;
 }
 .navbar-brand img {
-  width: 200px;
+  width: 135px;
+    margin-top: -15px;
 }
 .brilli-top-nav {
   background: rgba(0,0,0,0.7);
@@ -544,14 +545,16 @@ form .form-control:focus {
 }
 .navbar-nav {
   float: right;
+  margin: 10px;
 }
  /*imidiate child operator new concept-used to look for child elements*/
 .navbar-nav >li>a {
   color: #fff;
-  font-size: 15px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-weight: 700;
+  padding-top: 20px;
 }
 .navbar-nav>li>a:hover {
     background: none;
