@@ -176,6 +176,9 @@ h3 {
 
 }
 /* Services */
+#services {
+  background: #f6f6f6;
+}
 .service-item {
   padding: 20px 0 20px 0;
   margin-bottom: 20px;
@@ -259,6 +262,9 @@ h3 {
 }
 
 /*TEAM*/
+#team {
+  background: #f6f6f6;
+}
 .team-member {
   margin: 0 15px;
 }
