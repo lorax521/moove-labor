@@ -545,7 +545,7 @@ form .form-control:focus {
 }
 .navbar-nav {
   float: right;
-  margin: 10px;
+  margin: 13px;
 }
  /*imidiate child operator new concept-used to look for child elements*/
 .navbar-nav >li>a {
