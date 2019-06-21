@@ -29,7 +29,7 @@ $(function() {
 $(function() {
     $("#team-members").owlCarousel({
       items: 3,
-      autoplay: true,
+      autoplay: false,
       smartSpeed: 700,
       loop: true,
       autoplayHoverPause: true,
